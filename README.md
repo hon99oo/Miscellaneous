@@ -10,7 +10,6 @@ Error: The following directories are not writable by your user:
 
 /usr/local/share/man/man5   
 
-/usr/local/share/man/man7    
-
-------------><br><br>
+/usr/local/share/man/man7   
+------------>   
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"<br>
