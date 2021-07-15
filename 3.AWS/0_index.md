@@ -1,3 +1,6 @@
-# OS
-Unix, Linux, Ubuntu, macOS, windows   
-https://velog.io/@ifyouseeksoomi/CS-Operating-System-Unix-Linux-Ubuntu-macOS-windows
+# AWS
+
+EC2니 ECR이니 S3니 EBS니 너무나도 많은 AWS 서비스가 나를 복잡하게 만든다.
+그래서 이런 것들좀 정리를 하기 위하여 만든 디렉토리이다.
+
+ 쉣!
