@@ -28,3 +28,10 @@ https://www.daleseo.com/docker-volumes-bind-mounts/
 Docker의 개념 및 핵심 설명 : 
 https://khj93.tistory.com/entry/Docker-Docker-%EA%B0%9C%EB%85%90
    
+***
+Docker 예제 실습중 갱장히 이상한 오류가 발생했다.  
+
+failed to solve with frontend dockerfile.v0: failed to read dockerfile: open /var/lib/docker/tmp/buildkit-mount174403522/Dockerfile: no such file or directory
+   
+구글링을 계속 해봤지만 dockerfile -> Dockerfile 로 이름을 바꾸라는 답변밖에 없었다.   
+하지만, 오류가 고쳐지지 않았고 터미널을 Open한 디렉토리 경로를 상위 폴더 위치로 open을 해서 났던 오류였다 ㅎㅎ
